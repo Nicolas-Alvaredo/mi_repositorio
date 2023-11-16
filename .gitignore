@@ -1,0 +1,12 @@
+
+# ignora files sistema MAC
+.ds_store
+
+# ignora carpeta img cache
+img_cache
+
+# ignora todos los archvos de txt
+*.txt
+
+#ignora archivo background.jpg
+background.jpg
